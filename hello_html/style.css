@@ -1,4 +1,9 @@
 body {
     background-color: rgb(209, 57, 57);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+button {
+    color: black;
 }
